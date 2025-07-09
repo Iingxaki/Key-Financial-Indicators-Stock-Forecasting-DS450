@@ -4,3 +4,4 @@
 3. DS450_RH_models_v2 contains the robust model.
 4. DS450_RH_Proposal contains the proposal for this project.
 5. DS450_RH_FinalReport contains the final report for this project.
+6. Unlocking Stock Performance Insights.pptx contains the midproject presentation, not just the EDA. 
